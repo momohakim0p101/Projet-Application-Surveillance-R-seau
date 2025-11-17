@@ -1,0 +1,6 @@
+
+IP_SNMP = "192.168.1.1"
+INTERFACE_WIRESHARK = "wlan0"
+NAGIOS_URL = "http://192.168.1.10"
+NAGIOS_USER = "nagiosadmin"
+NAGIOS_PASSWORD = "password"
